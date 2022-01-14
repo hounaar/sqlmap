@@ -51,8 +51,10 @@ Download and install Python first from https://www.python.org/downloads/release/
 
 #### Debian base 
 We can use Snap store if you do not want to do it on a manual way :
-1. `sudo apt-get update`
-2. `sudo apt-get install sqlmap`
+```
+sudo apt-get update
+sudo apt-get install sqlmap
+```
 
 #### Redhat base 
 We can use Snap store if you do not want to do it on a manual way :
